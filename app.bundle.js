@@ -28896,7 +28896,7 @@
                 e.createElement(
                   $i,
                   { align: "center", fontSize: 15 },
-                  "nm-tools by Maswdle555"
+                  "nm-tools by Maswdle 4446"
                 ),
                 e.createElement(
                   Ss,
