@@ -28142,7 +28142,7 @@
             0 === Vl.size && Zl.off(0).off(1).off(5);
         });
       const os = function () {
-        var t = ts((0, e.useState)(9999), 2),
+        var t = ts((0, e.useState)(999999999), 2),
           n = t[0],
           r = t[1],
           o = ts((0, e.useState)(!1), 2),
@@ -28937,7 +28937,7 @@
           r = t.addr;
         return e.createElement(
           pn,
-          { container: !0, direction: "row" },
+          { container: !0, direction: "row", spacing: 1 },
           e.createElement(
             pn,
             { item: !0 },
