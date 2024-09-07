@@ -28937,7 +28937,7 @@
           r = t.addr;
         return e.createElement(
           pn,
-          { container: !0, direction: "row", spacing: 2 },
+          { container: !0, direction: "row", spacing: 1 },
           e.createElement(
             pn,
             { item: !0 },
