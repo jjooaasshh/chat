@@ -28152,7 +28152,7 @@
           s = l[0],
           u = l[1],
           c = ts((0, e.useState)(!1), 2),
-          f = c[0],
+          f = c[1],
           d = c[1],
           p = ts((0, e.useState)([]), 2),
           m = p[0],
@@ -28227,19 +28227,6 @@
               spacing: 2,
               alignItems: "center",
             },
-            e.createElement(
-              pn,
-              { item: !0 },
-              e.createElement(wi, {
-                type: "number",
-                value: n,
-                onChange: function (e) {
-                  return r(Number(e.target.value));
-                },
-                inputProps: { min: 1 },
-                label: "次数",
-              })
-            ),
             e.createElement(
               pn,
               { item: !0 },
