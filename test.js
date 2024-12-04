@@ -8,10 +8,12 @@ window.addEventListener("load", () => {
   if (targetElement1) {
     // 删除元素
     targetElement1.remove();
+    console.log("脚本已加载并执行");
   }
 
   if (targetElement2) {
     // 删除元素
     targetElement2.remove();
+    console.log("脚本已加载并执行");
   }
 });
