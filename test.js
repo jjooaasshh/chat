@@ -6,16 +6,12 @@ window.addEventListener("load", () => {
 
   // 检查元素是否存在
   if (targetElement1) {
-    // 对元素进行操作，例如修改内容
-    targetElement1.textContent = "内容已被修改1";
-    targetElement1.style.backgroundColor = "yellow";
-    targetElement1.style.border = "2px solid red";
+    // 删除元素
+    targetElement1.remove();
   }
 
   if (targetElement2) {
-    // 对元素进行操作，例如修改内容
-    targetElement2.textContent = "内容已被修改2";
-    targetElement2.style.backgroundColor = "yellow";
-    targetElement2.style.border = "2px solid red";
+    // 删除元素
+    targetElement2.remove();
   }
 });
