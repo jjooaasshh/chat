@@ -28952,7 +28952,7 @@
                     onClick: function () {
                       return (
                         (e = i),
-                        (t = "http://v6.nm1v1.cn/randomdeskrynew.html?touserid="
+                        (t = "http://v1.web1v1.cn/randomdeskrynew.html?touserid="
                           .concat(a, "&tousername=")
                           .concat(e)),
                         ((n = document.createElement("textarea")).value = t),
